@@ -26,27 +26,29 @@ const GEMMY_IDLE_QUOTES = [
 	"You have plugins that you can update!",
 	"Hi I'm Gemmy! Like Clippy but shinier!",
 	"Everything is connected. Everything.",
-	`It looks like you’re writing a note.
-
-Would you like help?
-- Get help with writing the note
-- Just type the note without help
-- [ ] Don’t show me this tip again`,
-	'Can’t decide which note to work on? Try the Random Note core plugin!',
-	'Are you sure you don’t want to upload all your notes just so we can chat?',
-	'How tall would all your notes be if you stacked them up?',
-	'Wanna teach me to say things? Find me on GitHub and open a pull request!',
-	'Have you considered using Comic Sans?'
+	"Can’t decide which note to work on? Try the Random Note core plugin!",
+	"Are you sure you don’t want to upload all your notes just so we can chat?",
+	"How tall would all your notes be if you stacked them up?",
+	"Wanna teach me to say things? Find me on GitHub and open a pull request!",
+	"Have you considered using Comic Sans?",
+	"A blank page is just a masterpiece in waiting"
 ];
 
 const WRITING_MODE_QUOTES = [
-	`Is that the best you can do? Keep writing!`,
-	`Write first, editor later.`,
-	`I love hearing your keyboard. Don't stop.`,
-	`How about we review some old notes today?`,
-	`Stuck? Try journaling what happened today and see if that gives you inspiration.`,
-	`Maybe it's time to go get some water or coffee.`,
-	`Anything is better than a blank page, even me. Write something!`
+	"Is that the best you can do? Keep writing!",
+	"Write first, edit later.",
+	"I love hearing your keyboard. Don't stop.",
+	"How about we review some old notes today?",
+	"Stuck? Try journaling what happened today and see if that gives you inspiration.",
+	"Maybe it's time to go get some water or coffee.",
+	"Anything is better than a blank page, even me. Write something!",
+	"Oh, taking a break? Don’t let the ideas get cold!",
+	"What’s this? Writer’s block already?",
+	"You’ve got this! Every keystroke is a step closer to brilliance.",
+	"You’re doing amazing! Keep the momentum going.",
+	"Bold choice to open Obsidian and then do absolutely nothing.",
+	"Is this a journal or a staring contest with the cursor?",
+	"Hmm, I didn’t realize staring at the screen was a new note-taking strategy."
 ];
 
 const BUBBLE_DURATION = 5000;
